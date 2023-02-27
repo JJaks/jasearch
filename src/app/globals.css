@@ -95,6 +95,11 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+link {
+  color: inherit;
+  text-decoration: none;
+  text-transform: uppercase;
+}
 a {
   color: inherit;
   text-decoration: none;
